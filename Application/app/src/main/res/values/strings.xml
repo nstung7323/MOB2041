@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Thư Viện Phương Nam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navagation_drawer_open">Open Navagation Drawer</string>
+    <string name="navagation_drawer_close">Close Navagation Drawer</string>
+</resources>
